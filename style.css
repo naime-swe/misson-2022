@@ -1,0 +1,168 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+p{
+color: rgb(126, 125, 125) ;
+}
+h1{
+    font-size: 56px;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 120px;
+}
+
+.half-width{
+    width: 45%;
+    padding-left: 9%;
+    padding-right: 8%;
+    padding-top: 90px;
+     
+}
+.padding-color{
+    border-left: 4px solid;
+    border-image: linear-gradient(rgb(252, 186, 45),rgb(255, 162, 56));
+     border-image-slice: 1;
+      
+}
+ .font-style{
+   font-family:  Yeseva One;
+   
+}
+span{
+    color: rgb(21, 139, 139);
+}
+.half-width img{
+    position: absolute;
+    width:  32%;
+    /* height: 623px; */
+    left: 650px;
+    top: -10px;
+    
+     
+}
+ 
+ 
+
+ .details-button{
+      background-color: rgb(255, 0, 212);
+     text-decoration: none;
+     padding: 10px 40px;
+     border-radius: 10px;
+      color: rgb(255, 241, 241);
+      font-weight: 700;
+ }
+
+
+ #my-misson{
+     text-align: center;
+     font-size: 40px;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     color: rgb(4, 4, 48);
+ }
+.flexible-containers{
+display: flex;
+margin-top: 50px;
+ 
+}
+.missions{
+    padding-left: 2%;
+    padding-right: 2%;
+    border-radius: 20px;
+    background-color: rgb(209, 228, 228);
+    margin-right: -3%;
+    margin-left: 9%;
+    
+    
+     
+    
+}
+.missions img{
+    width: 60%;
+    
+}
+.Vission{
+    padding-left: 2%;
+    padding-right: 2%;
+    border-radius: 20px;
+    background-color: rgb(252, 209, 238);
+    margin-right: 2%;
+    margin-left: 9%;
+     
+}
+.Vission img{
+    width: 60%;
+     
+}
+.goals{
+    padding-left: 2%;
+    padding-right: 2%;
+    border-radius: 20px;
+    background-color: rgba(255, 248, 189, 0.664);
+    margin-right: 5%;
+    margin-left: 3%;
+     
+}
+.goals img{
+    width: 60%;
+}
+.coding-part img{
+    width: 65%;
+    padding-left: 19%;
+}
+.coding-part-text{
+    padding-right: 10%;
+     
+     
+    padding-top: 3%;
+}
+#font-style{
+    font-size: 32px;
+    color: rgb(55, 55, 77);
+}
+.project-part-text{
+    padding-left: 10%;
+}
+
+#img-size{
+    width: 105%;
+    padding-right: 10%;
+}
+
+footer{
+    text-align: center;
+     padding-top: 10%;
+     /* background-color: black; */
+      
+}
+.font-famely{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-emphasis-color: red;
+}
+
+.stay-safe{
+    text-align: center;
+    padding-top: 10%;
+    font-size: 25px;
+    color: rgb(231, 122, 131);
+}
+ .covid{
+     padding-top: 6%;
+     padding-bottom: 5%;
+       
+ }
+ #font-famely{
+     background-color: rgb(80, 81, 117);
+     padding-top: 5%;
+      margin: 4%;
+      
+       width: 90%;
+  height: auto;
+   
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  padding: 10px 2px 5px 10px;
+      
+ }
